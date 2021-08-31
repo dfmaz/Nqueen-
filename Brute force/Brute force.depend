@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619007609 source:d:\google drive\máster\2º cuatrimestre\optimización y complejidad\prácticas\práctica 1\brute force\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
