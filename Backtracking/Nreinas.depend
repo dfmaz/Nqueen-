@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618769186 source:d:\google drive\máster\2º cuatrimestre\optimización y complejidad\prácticas\práctica 1\nreinas\main.c
+	<stdio.h>
+	<string.h>
+
